@@ -100,4 +100,4 @@ Useful for real estate analysis and investment decisions.
 
 🌟 Author
 
-Kriti Sahu
+Kirti Sahu
