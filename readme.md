@@ -25,6 +25,7 @@ The dataset contains features like location, total rooms, population, and median
 - NumPy
 - Matplotlib
 - Seaborn
+- Jupyter Notebook
 
 ---
 
