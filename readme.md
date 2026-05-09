@@ -72,7 +72,7 @@ The dataset contains features like location, total rooms, population, and median
 ▶️ How to Run
 
 1. Clone the repository:
-   git clone https://github.com/kirtiisahu15/machine-learning-project.git
+   git clone https://github.com/kirtiisahu15/House-Price-Prediction-ML.git
 
 2. Open project folder
 
